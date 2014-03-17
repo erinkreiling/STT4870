@@ -10,6 +10,7 @@
 * [An Introduction to R](http://cran.r-project.org/doc/manuals/r-release/R-intro.html)
 * [*Advanced R Development* by Hadley Wickham](http://adv-r.had.co.nz/)
 * [Free Code School intro R Course](https://www.codeschool.com/courses/try-r)
+* [John Chambers recounts the history of S and R](http://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)
 
 ## Graphics
 * [`ggplot2` documentation](http://docs.ggplot2.org/current/)
@@ -31,10 +32,11 @@
 * [Using RMarkdown](https://support.rstudio.com/hc/en-us/sections/200149716-R-Markdown)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Getting started with R Markdown Blog](http://jeromyanglim.blogspot.com.au/2012/05/getting-started-with-r-markdown-knitr.html)
+* [xtable and Rmarkdown](http://rpubs.com/Thell/xtable)
   
 ## LaTeX  
 
-* [Downnload LaTeX for Macs (TeXLive)](http://tug.org/mactex/)
+* [Download LaTeX for Macs (TeXLive)](http://tug.org/mactex/)
 * [Download LaTeX for Windows (MikTeX)](http://miktex.org/)
 * [More Math into LaTeX](http://www.ctan.org/pkg/math-into-latex-4)
 * [Getting started with LaTeX](http://www.tug.org/begin.html)
@@ -46,8 +48,12 @@
 * [R Presentations](https://support.rstudio.com/hc/en-us/sections/200130218-R-Presentations)
 * [Slidify](http://slidify.org/index.html)
 
-## GIT
+
+## Git
 * [GiTHub Help Page](https://help.github.com/)
+
+## Git
+* [GitHub Help Page](https://help.github.com/)
 * [GiT Tutorials (bitbucket)](https://www.atlassian.com/git/tutorial)
 * [Create a Project](http://gitimmersion.com/lab_03.html)
 * [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
