@@ -290,7 +290,7 @@ What is the difference?
   \coordinate(main3) at (-1,-1.25);
   \coordinate (fork) at (4.1,.5);
   \coordinate (fork2) at (4.1,-.48);
-  \coordinate (fork3) at (4,-.5);
+  \coordinate (fork3) at (4,-1.25);
   \coordinate (fork4) at (6.,-1.75);
   \coordinate (loc) at (3,-5.5);
   \coordinate(loc1) at (3.5,-4.5);
