@@ -311,12 +311,12 @@ What is the difference?
           (auth1) -- node[above, rotate=82]{Push} node[below, rotate=85]{Pull/Fetch} (main3);
     \node[
         name path=mainrepo,
-        cloud, cloud puffs=13.7,
+        rectangle, minimum width=2cm,
         minimum width=4cm,minimum height=2.5cm, draw,
     ] (mainrepo) at (0,0) {Main Repo};
     \node at (0,-.3) {(\texttt{remote upstream})};
     \node[
-        cloud, cloud puffs=13.7,
+       rectangle, minimum width=2cm,
         minimum width=4cm, minimum height=2.5cm, draw,
     ] (forked) at (6,0) {Forked Repo};
     \node at (6,-.3) {(\texttt{remote origin})};
