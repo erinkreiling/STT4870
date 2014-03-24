@@ -308,7 +308,7 @@ What is the difference?
   \path[ <->,blue, draw, ultra thick, name path= path5] 
           (loc3) -- node[above, rotate=60]{Push} node[below, rotate=60]{Pull/Fetch} (fork4);
  \path[ <->,drkgreen, draw, ultra thick, name path= path6] 
-          (auth1) -- node[above, rotate=100]{Push} node[below, rotate=85]{Pull/Fetch} (main3);
+          (auth1) -- node[above, rotate=85]{Push} node[below, rotate=85]{Pull/Fetch} (main3);
     \node[
         name path=mainrepo,
         cloud, cloud puffs=13.7,
