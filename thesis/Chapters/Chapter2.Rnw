@@ -304,7 +304,7 @@ What is the difference?
   \path[ ->, blue, draw, ultra thick, name path= path3] 
             (0.5,-1.25) --node[above, rotate=300]{Fetch/Pull} (loc2);
             
-  \path[ <-, draw, red, thick, name path= path4] (loc1) -- node[above, rotate=59]{Create new project}(fork3);
+  \path[ <-, draw, red, thick, name path= path4] (loc1) -- node[above, rotate=62]{Create new project}(fork3);
   \path[ <->,blue, draw, ultra thick, name path= path5] 
           (loc3) -- node[above, rotate=60]{Push} node[below, rotate=60]{Pull/Fetch} (fork4);
  \path[ <->,drkgreen, draw, ultra thick, name path= path6] 
