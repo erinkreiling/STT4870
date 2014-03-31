@@ -139,7 +139,11 @@ origin	https://github.com/alanarnholt/STT4870.git (push)
 
 Thesis
 =======================================================
+<<<<<<< HEAD
 * Go to [https://github.com/alanarnholt/STT4870/tree/master/thesis/](https://github.com/alanarnholt/STT4870/tree/master/thesis/) and open the main.pdf file for more details.
+=======
+* Go to [https://github.com/alanarnholt/STT4870/tree/master/thesis/](https://github.com/alanarnholt/STT4870/tree/master/thesis/) and open the `main.pdf` file for more details.
+>>>>>>> ac2b44e540d0624762bc5002705a84a9c6878839
 * Go over `origin` and `upstream` with Git Example 2.5
 * Use `git pull upstream master`.
 * Show Figure 2.8

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 % Created by tikzDevice version 0.7.0 on 2014-03-24 16:30:35
+=======
+% Created by tikzDevice version 0.7.0 on 2014-03-25 07:36:19
+>>>>>>> ac2b44e540d0624762bc5002705a84a9c6878839
 % !TEX encoding = UTF-8 Unicode
 
 
@@ -21,6 +25,14 @@
 
 \usepackage[letterpaper,includehead,includefoot]{geometry} % change letterpaper to a4paper for A4 paper size
 \geometry{top=2.0in, bottom=0.0in, left=2.25in, right=0.0in} % read geometry documentation for setting margins
+% \usepackage[round]{natbib}  %ATA 3/25/14
+\usepackage{color, xcolor}              
+\usepackage{tikz}                     % used for tikz graphs
+\usetikzlibrary{intersections}
+\usetikzlibrary{positioning, shapes}
+\definecolor{light-gray}{gray}{0.95}
+\definecolor{drkgreen}{RGB}{5,102,51}
+\definecolor{ltblue}{RGB}{100,149,237}
 
 \usepackage{color, xcolor}              
 \usepackage{tikz}                     % used for tikz graphs
@@ -116,6 +128,7 @@
 \definecolor[named]{fillColor}{rgb}{0.00,1.00,0.00}
 
 \path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] ( 64.47, 76.21) rectangle ( 82.96, 81.96);
+<<<<<<< HEAD
 
 \path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] ( 82.96, 76.21) rectangle (101.44, 94.62);
 
@@ -141,6 +154,33 @@
 
 \path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (286.31, 76.21) rectangle (304.79, 77.36);
 
+=======
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] ( 82.96, 76.21) rectangle (101.44, 94.62);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (101.44, 76.21) rectangle (119.93,123.40);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (119.93, 76.21) rectangle (138.42,201.66);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (138.42, 76.21) rectangle (156.90,240.80);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (156.90, 76.21) rectangle (175.39,298.34);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (175.39, 76.21) rectangle (193.87,290.29);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (193.87, 76.21) rectangle (212.36,239.64);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (212.36, 76.21) rectangle (230.85,191.30);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (230.85, 76.21) rectangle (249.33,130.30);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (249.33, 76.21) rectangle (267.82, 87.72);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (267.82, 76.21) rectangle (286.31, 83.11);
+
+\path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (286.31, 76.21) rectangle (304.79, 77.36);
+
+>>>>>>> ac2b44e540d0624762bc5002705a84a9c6878839
 \path[draw=drawColor,line width= 0.4pt,line join=round,line cap=round,fill=fillColor] (304.79, 76.21) rectangle (323.28, 77.36);
 \end{scope}
 \begin{scope}
